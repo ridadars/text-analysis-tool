@@ -1,0 +1,5 @@
+This research explores the impact of artificial intelligence on modern healthcare
+systems. By analyzing data-driven models and their integration into clinical practice,
+we assess improvements in diagnosis accuracy and treatment efficiency.
+The results highlight both opportunities and ethical challenges in deploying AI
+technologies.

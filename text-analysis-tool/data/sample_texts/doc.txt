@@ -1,0 +1,1 @@
+Python is a high-level programming language widely used for web development, data analysis, and machine learning. Its clear syntax and extensive library support make it popular among developers. This document provides an overview of Python’s features, installation, and common use cases in software projects.

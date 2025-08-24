@@ -1,0 +1,9 @@
+openai
+google-generativeai
+mistralai
+transformers
+gradio
+pandas
+matplotlib
+textblob
+langdetect
