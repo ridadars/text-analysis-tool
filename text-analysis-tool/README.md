@@ -18,6 +18,7 @@ It compares summaries from **Gemini** and **Groq** APIs, while also providing:
 
 ## 📂 Project Structure
 text-analysis-tool/
+
 │── main.py
 │── config.py
 │── requirements.txt
@@ -36,4 +37,5 @@ text-analysis-tool/
 │ └── usage_examples.md
 │
 └── tests/
+
 └── test_main.py
